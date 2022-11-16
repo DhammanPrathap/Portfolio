@@ -1,0 +1,86 @@
+.header{
+    background-color: rgb(71, 214, 219);
+    padding: 10px;
+    font-size: x-large;
+    align-content: right;
+}
+.heading-container{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.name{
+    font-size: 30px;
+}
+.header-options{
+    float: right;
+    margin-top: 10px;
+    color: rgb(149, 221, 143);
+}
+.header-options2{
+    margin: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.image{
+    margin: 20px;
+    margin-left: 80px;
+    height: 270px;
+    width: 250px;
+    border-radius: 150%;
+}
+.name-image{
+    font-size: 40px;
+    margin-left: 50px;
+}
+.university-name{
+    margin: 10px;
+    margin-left: 50px;
+    color: rgb(4, 86, 192);
+    font-size: 20px;
+}
+.icon-linkedin{
+    margin: 10px;
+    margin-left: 50px;
+    font-size: 40px;
+}
+.icon-github{
+    margin-left: 15px;
+    font-size: 40px;
+}
+.icon-gmail{
+    margin-left: 15px;
+    font-size: 40px;
+}
+.icon-telegram{
+    margin-left: 15px;
+    font-size: 40px;
+}
+.icon-discord{
+    margin-left: 15px;
+    font-size: 40px;
+}
+.parent{
+    display: flex;
+}
+h1{
+    margin: 40px;
+    margin-left: 50px;
+    font-size: 40px;
+}
+.details{
+    margin: 30px;
+    margin-left: 70px;
+    margin-right: 30px;
+    font-size: 20px;
+}
+.child1{
+    float: left;
+    margin-left: 20px;
+}
+.child2{
+    float: right;
+    margin-left: 70px;
+}
